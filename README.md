@@ -1,6 +1,6 @@
 # Scan Verse - Text Recognition & Document Scanner App
 
-![img.png](img.png)
+![img.png](screenshots/img.png)
 ## Overview
 Scan Verse is a powerful Flutter-based mobile application designed to simplify document management and text recognition tasks. Leveraging Google ML Kit, the app allows users to scan documents, extract text, and save them efficiently. It's the perfect tool for students, professionals, and anyone looking to digitize and organize their documents seamlessly.
 
